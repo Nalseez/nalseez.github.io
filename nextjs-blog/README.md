@@ -11,3 +11,12 @@ For technologies (viz., libraries and frameworks) and I stumbled across Vue.js +
 After reading a bunch about front-end architecture, I settled on Next.js + React.js.
 
 Currently, this is based on the starter template for [Learn Next.js](https://nextjs.org/learn).
+
+
+## Development Guide
+
+Prerequisites
+
+* Next.js
+* NPM
+
