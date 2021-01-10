@@ -10,7 +10,7 @@
 
 # next.js
 /.next/
-/out/
+#/out/ - Move to CI/CD server
 
 # production
 /build
